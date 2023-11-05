@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tut-deploy-gh/static/css/main.a86bda18.css",
+    "main.js": "/react-tut-deploy-gh/static/js/main.2ee50a6b.js",
+    "index.html": "/react-tut-deploy-gh/index.html",
+    "main.a86bda18.css.map": "/react-tut-deploy-gh/static/css/main.a86bda18.css.map",
+    "main.2ee50a6b.js.map": "/react-tut-deploy-gh/static/js/main.2ee50a6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a86bda18.css",
+    "static/js/main.2ee50a6b.js"
+  ]
+}
